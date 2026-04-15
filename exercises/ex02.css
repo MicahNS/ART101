@@ -1,5 +1,14 @@
 p { color: blue; font-size: x-large; margin-right: 1250px; padding: 15px;background-color: blanchedalmond; }
+p strong {font-weight: normal;}
 
 li { text-align: center; }
 
 html { font-family: "Mystery Quest"; background-color: darkgrey;}
+span {background-color: azure;}
+
+.highlight_01 {background-color: rgb(134, 214, 214);}
+.highlight_02 {background-color: orange;}
+#paragraph {background-color: rgb(193, 116, 116);}
+img {width: 300px}
+#min_small {width: 150px}
+#min_large {width: 600px}
