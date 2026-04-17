@@ -12,3 +12,5 @@ span {background-color: azure;}
 img {width: 300px}
 #min_small {width: 150px}
 #min_large {width: 600px}
+.test-div {background: lemonchiffon; margin: 30px; padding: 40px; }
+.my-flex {display: flex;}
