@@ -1,5 +1,5 @@
 p {color: rgb(161, 0, 193); font-family: 'Courier New', Courier, monospace; font-size: large; background-color: antiquewhite; padding: 15px;}
-html {background-color: rgb(245, 200, 228); background-image: url("minionmeme.jpeg"); width: fit-content}
+html {background-color: rgb(245, 200, 228); background-image:url("minionmeme.jpeg") ; width: fit-content}
 ol {color: rgb(155, 19, 19); background-color: rgb(255, 234, 234); margin-top: 30px; margin-bottom: 30px;}
 li {padding: 10; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 h1 {font-family: sans-serif; font-size: xxx-large; color: rgb(90, 18, 158);}
