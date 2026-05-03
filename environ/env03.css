@@ -1,0 +1,29 @@
+body {
+    background-image: url("space.png");
+    background-size: cover;
+}
+
+p {
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: auto; padding-bottom: 30px; padding-top: 30px; 
+}
+
+div {
+    text-align: center;
+}
+
+span {
+    display: inline;
+}
+
+.mainzone {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+.topzone {
+    display: flex;
+}
